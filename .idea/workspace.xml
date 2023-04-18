@@ -17,7 +17,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86ef0d01-04a9-4893-ae76-a7e05c102bea" name="变更" comment="" />
+    <list default="true" id="86ef0d01-04a9-4893-ae76-a7e05c102bea" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/helloworld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681809268863</updated>
       <workItem from="1681809271812" duration="8000" />
-      <workItem from="1681809475273" duration="400000" />
+      <workItem from="1681809475273" duration="735000" />
     </task>
     <servers />
   </component>
