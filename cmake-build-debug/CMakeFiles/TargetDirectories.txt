@@ -1,0 +1,3 @@
+/Users/xujinguo/Documents/GitHub/testapp/cmake-build-debug/CMakeFiles/testapp.dir
+/Users/xujinguo/Documents/GitHub/testapp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xujinguo/Documents/GitHub/testapp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
